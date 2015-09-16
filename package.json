@@ -1,0 +1,34 @@
+{
+  "name": "@algolia/browzers",
+  "version": "1.0.0",
+  "description": "Reusable list of browsers to test against when using defunctzombie/zuul test runner and Sauce Labs",
+  "main": "dist/browzers.common.js",
+  "scripts": {
+    "lint": "eslint . --quiet",
+    "test": "npm run lint",
+    "build": "babel index.js --out-file dist/browzers.common.js",
+    "watch": "babel index.js --watch --out-file dist/browzers.common.js",
+    "prepublish": "npm run build"
+  },
+  "repository": "algolia/browzers",
+  "keywords": [
+    "list",
+    "browsers",
+    "zuul",
+    "test"
+  ],
+  "author": "Algolia <support@algolia.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algolia/browzers/issues"
+  },
+  "homepage": "https://github.com/algolia/browzers",
+  "devDependencies": {
+    "babel": "5.8.23",
+    "babel-eslint": "4.1.1",
+    "eslint": "1.4.1",
+    "eslint-config-airbnb": "0.0.8",
+    "eslint-config-algolia": "3.0.0",
+    "eslint-plugin-react": "3.3.2"
+  }
+}
