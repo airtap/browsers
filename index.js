@@ -18,13 +18,13 @@ export default {
     version: '-3..latest'
   }, {
     name: 'iphone',
-    version: ['7.1', '-1..8.4', '-1..latest']
+    version: ['7.1', '-1..8.4', '-1..9.0']
   }, {
     name: 'android',
     version: ['-1..4.4', '-1..latest']
   }, {
     name: 'ipad',
-    version: ['7.1', '-1..8.4', '-1..latest']
+    version: ['7.1', '-1..8.4', '-1..9.0']
   }],
   pullRequest: [{
     name: 'chrome',
@@ -32,14 +32,14 @@ export default {
     platform: 'Windows 10'
   }, {
     name: 'internet explorer',
-    version: '11'
+    version: ['8', '11']
   }, {
     name: 'firefox',
     version: 'latest',
     platform: 'Windows 10'
   }, {
     name: 'iphone',
-    version: 'latest'
+    version: '9.0'
   }, {
     name: 'android',
     version: 'latest'
