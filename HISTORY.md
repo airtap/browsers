@@ -1,4 +1,4 @@
-# UNRELEASED
+# 1.1.0 (2015-10-23)
 
   fix: remove iphone/ipad 9.1 testing, completely buggy in saucelabs
 
