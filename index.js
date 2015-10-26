@@ -25,6 +25,9 @@ export default {
   }, {
     name: 'ipad',
     version: ['7.1', '-1..8.4', '-1..9.0']
+  }, {
+    name: 'microsoftedge',
+    version: '-1..latest'
   }],
   pullRequest: [{
     name: 'chrome',
@@ -42,6 +45,9 @@ export default {
     version: '9.0'
   }, {
     name: 'android',
+    version: 'latest'
+  }, {
+    name: 'microsoftedge',
     version: 'latest'
   }]
 };
