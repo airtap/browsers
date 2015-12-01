@@ -1,3 +1,7 @@
+# 1.2.1 (2015-12-01)
+
+  only take the latest edge, no need for previous version
+
 # 1.2.0 (2015-10-26)
 
   test on microsoft edge

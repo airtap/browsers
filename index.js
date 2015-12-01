@@ -27,7 +27,7 @@ export default {
     version: ['7.1', '-1..8.4', '-1..9.0']
   }, {
     name: 'microsoftedge',
-    version: '-1..latest'
+    version: 'latest'
   }],
   pullRequest: [{
     name: 'chrome',
