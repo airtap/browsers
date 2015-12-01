@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "eslint . --quiet",
     "test": "npm run lint",
-    "build": "babel index.js --out-file dist/browzers.common.js",
-    "watch": "babel index.js --watch --out-file dist/browzers.common.js",
+    "build": "mkdir -p dist/ && babel index.js --out-file dist/browzers.common.js",
+    "watch": "mkdir -p dist/ && babel index.js --watch --out-file dist/browzers.common.js",
     "prepublish": "npm run build"
   },
   "repository": "algolia/browzers",
