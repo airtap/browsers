@@ -1,6 +1,6 @@
 {
   "name": "browzers",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Reusable list of browsers to test against when using defunctzombie/zuul test runner and Sauce Labs",
   "main": "dist/browzers.common.js",
   "scripts": {
