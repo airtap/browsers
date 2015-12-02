@@ -18,13 +18,13 @@ export default {
     version: '-3..latest'
   }, {
     name: 'iphone',
-    version: ['7.1', '-1..8.4', '-1..9.0']
+    version: '-3..latest'
   }, {
     name: 'android',
-    version: ['-1..4.4', '-1..latest']
+    version: '-3..latest'
   }, {
     name: 'ipad',
-    version: ['7.1', '-1..8.4', '-1..9.0']
+    version: '-3..latest'
   }, {
     name: 'microsoftedge',
     version: 'latest'
