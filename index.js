@@ -12,7 +12,7 @@ export default {
     platform: 'Windows 10'
   }, {
     name: 'internet explorer',
-    version: '8..11'
+    version: '9..11'
   }, {
     name: 'safari',
     version: '-3..latest'
@@ -35,7 +35,7 @@ export default {
     platform: 'Windows 10'
   }, {
     name: 'internet explorer',
-    version: ['8', '11']
+    version: ['9', '11']
   }, {
     name: 'firefox',
     version: 'latest',
