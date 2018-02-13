@@ -1,7 +1,7 @@
 {
-  "name": "browzers",
-  "version": "1.3.0",
-  "description": "Reusable list of browsers to test against when using defunctzombie/zuul test runner and Sauce Labs",
+  "name": "airtap-browsers",
+  "version": "0.0.1",
+  "description": "Reusable list of browsers to test against when using Airtap",
   "main": "dist/browzers.common.js",
   "scripts": {
     "lint": "eslint . --quiet",
@@ -10,7 +10,7 @@
     "watch": "mkdir -p dist/ && babel index.js --watch --out-file dist/browzers.common.js",
     "prepublish": "npm run build"
   },
-  "repository": "algolia/browzers",
+  "repository": "airtap/browsers",
   "keywords": [
     "list",
     "browsers",
@@ -20,9 +20,9 @@
   "author": "Algolia <support@algolia.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/algolia/browzers/issues"
+    "url": "https://github.com/airtap/browsers/issues"
   },
-  "homepage": "https://github.com/algolia/browzers",
+  "homepage": "https://github.com/airtap/browsers",
   "devDependencies": {
     "babel": "^5.8.29",
     "babel-eslint": "^4.1.3",
