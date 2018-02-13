@@ -48,4 +48,4 @@ module.exports = {
     name: 'microsoftedge',
     version: 'latest'
   }]
-};
+}
