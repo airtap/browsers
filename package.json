@@ -4,8 +4,6 @@
   "description": "Reusable list of browsers to test against when using Airtap",
   "main": "dist/browzers.common.js",
   "scripts": {
-    "lint": "eslint . --quiet",
-    "test": "npm run lint",
     "build": "mkdir -p dist/ && babel index.js --out-file dist/browzers.common.js",
     "watch": "mkdir -p dist/ && babel index.js --watch --out-file dist/browzers.common.js",
     "prepublish": "npm run build"
@@ -24,11 +22,6 @@
   },
   "homepage": "https://github.com/airtap/browsers",
   "devDependencies": {
-    "babel": "^5.8.29",
-    "babel-eslint": "^4.1.3",
-    "eslint": "^1.7.3",
-    "eslint-config-airbnb": "^0.1.0",
-    "eslint-config-algolia": "^4.2.0",
-    "eslint-plugin-react": "^3.6.3"
+    "babel": "^5.8.29"
   }
 }
