@@ -45,7 +45,7 @@ export default {
     version: '9.0'
   }, {
     name: 'android',
-    version: 'latest'
+    version: '6.0'
   }, {
     name: 'microsoftedge',
     version: 'latest'
