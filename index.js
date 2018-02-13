@@ -1,6 +1,4 @@
-// this is a list of browsers to test against when using https://github.com/defunctzombie/zuul
 // '-2..3.1' means 3.1, 3.0, 2.9
-
 module.exports = {
   all: [{
     name: 'chrome',
