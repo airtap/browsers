@@ -1,7 +1,5 @@
-// this is a list of browsers to test against when using https://github.com/defunctzombie/zuul
 // '-2..3.1' means 3.1, 3.0, 2.9
-
-export default {
+module.exports = {
   all: [{
     name: 'chrome',
     version: '-1..latest',
@@ -50,4 +48,4 @@ export default {
     name: 'microsoftedge',
     version: 'latest'
   }]
-};
+}
