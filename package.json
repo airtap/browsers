@@ -2,11 +2,8 @@
   "name": "airtap-browsers",
   "version": "0.0.1",
   "description": "Reusable list of browsers to test against when using Airtap",
-  "main": "dist/browzers.common.js",
   "scripts": {
-    "build": "mkdir -p dist/ && babel index.js --out-file dist/browzers.common.js",
-    "watch": "mkdir -p dist/ && babel index.js --watch --out-file dist/browzers.common.js",
-    "prepublish": "npm run build"
+
   },
   "repository": "airtap/browsers",
   "keywords": [
@@ -20,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/airtap/browsers/issues"
   },
-  "homepage": "https://github.com/airtap/browsers",
-  "devDependencies": {
-    "babel": "^5.8.29"
-  }
+  "homepage": "https://github.com/airtap/browsers"
 }
