@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Reusable list of browsers to test against when using Airtap",
   "scripts": {
-    "test": "standard"
+    "test": "standard && node test.js"
   },
   "repository": "airtap/browsers",
   "keywords": [
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/airtap/browsers",
   "devDependencies": {
-    "standard": "~10.0.3"
+    "standard": "~10.0.3",
+    "tape": "^4.8.0"
   }
 }
