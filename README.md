@@ -3,7 +3,7 @@
 > A reusable list of browsers to test when using [`airtap`](https://github.com/airtap/airtap).
 
 [![npm status](http://img.shields.io/npm/v/airtap-browsers.svg)](https://www.npmjs.org/package/airtap-browsers) [![node](https://img.shields.io/node/v/airtap-browsers.svg)](https://www.npmjs.org/package/airtap-browsers) [![Travis build status](https://img.shields.io/travis/airtap/browsers.svg)](http://travis-ci.org/airtap/browsers) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
- [![Dependency status](https://img.shields.io/david/airtap/browsers.svg)](https://david-dm.org/airtap/browsers)
+ [![Dependency status](https://img.shields.io/david/airtap/browsers.svg)](https://david-dm.org/airtap/browsers) [![Greenkeeper badge](https://badges.greenkeeper.io/airtap/browsers.svg)](https://greenkeeper.io/)
 
 ## usage
 
