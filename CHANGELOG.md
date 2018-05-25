@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 
+## [0.0.2] - 2018-05-25
+
+### Added
+* Add node 10 to Travis (@ralphtheninja)
+* Add Greenkeeper (@ralphtheninja)
+
+### Removed
+* Remove node 4 from Travis (@ralphtheninja)
+
 ## [0.0.1] - 2018-02-16
 
 First release :seedling:. Forked from [`browzers`](https://github.com/algolia/browzers), so this changelog entry lists the differences from `browzers`.
@@ -28,5 +37,6 @@ First release :seedling:. Forked from [`browzers`](https://github.com/algolia/br
 * Remove `.npmignore` (only there for Babel) (@vweevers)
 * Remove `HISTORY.md` (replaced by `CHANGELOG.md`) (@vweevers)
 
-[Unreleased]: https://github.com/airtap/browsers/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/airtap/browsers/compare/v0.0.2...HEAD
+[0.0.2]: https://github.com/airtap/browsers/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/airtap/browsers/compare/v0.0.0...v0.0.1
