@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/airtap/browsers",
   "devDependencies": {
-    "standard": "~10.0.3",
+    "standard": "^11.0.1",
     "tape": "^4.8.0"
   },
   "engines": {
