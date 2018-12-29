@@ -10,7 +10,7 @@ module.exports = {
     platform: 'Windows 10'
   }, {
     name: 'internet explorer',
-    version: '9..11'
+    version: '11'
   }, {
     name: 'safari',
     version: '-3..latest'
@@ -33,7 +33,7 @@ module.exports = {
     platform: 'Windows 10'
   }, {
     name: 'internet explorer',
-    version: ['9', '11']
+    version: '11'
   }, {
     name: 'firefox',
     version: 'latest',
