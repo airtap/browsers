@@ -2,6 +2,12 @@
 
 ## [Unreleased][unreleased]
 
+## [0.2.0] - 2018-12-29
+
+### Changed
+
+- Restore `android` and `iphone` to `latest` in `pullRequest` list ([`cd84b92`](https://github.com/airtap/browsers/commit/cd84b92)) ([**@vweevers**](https://github.com/vweevers))
+
 ## [0.1.0] - 2018-12-29
 
 ### Changed
@@ -57,7 +63,9 @@ First release :seedling:. Forked from [`browzers`](https://github.com/algolia/br
 - Remove `.npmignore` (only there for Babel) ([**@vweevers**](https://github.com/vweevers))
 - Remove `HISTORY.md` (replaced by `CHANGELOG.md`) ([**@vweevers**](https://github.com/vweevers))
 
-[unreleased]: https://github.com/airtap/browsers/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/airtap/browsers/compare/v0.2.0...HEAD
+
+[0.2.0]: https://github.com/airtap/browsers/compare/v0.1.0...v0.2.0
 
 [0.1.0]: https://github.com/airtap/browsers/compare/v0.0.2...v0.1.0
 
