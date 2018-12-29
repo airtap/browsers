@@ -40,10 +40,10 @@ module.exports = {
     platform: 'Windows 10'
   }, {
     name: 'iphone',
-    version: '9.0'
+    version: 'latest'
   }, {
     name: 'android',
-    version: '6.0'
+    version: 'latest'
   }, {
     name: 'microsoftedge',
     version: 'latest'
