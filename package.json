@@ -1,6 +1,6 @@
 {
   "name": "airtap-browsers",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Reusable list of browsers to test against when using Airtap",
   "scripts": {
     "test": "standard && hallmark && node test.js",
