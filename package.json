@@ -21,7 +21,7 @@
   "homepage": "https://github.com/airtap/browsers",
   "devDependencies": {
     "hallmark": "^1.0.0",
-    "standard": "^13.0.1",
+    "standard": "^14.0.0",
     "tape": "^4.8.0"
   },
   "engines": {
